@@ -1,0 +1,4 @@
+{ "name":"Wormania.IO", 
+"src":"https://html5.gamemonetize.com/rfcp8f0is0i4llemtxuzea4yvak811zt/", 
+"description":"Multiplayer worm game with powerups! Eat gems to grow longer, use powerups to gain speed or cut other worms in half!", 
+"controls":"Mouse to move Press mouse to boost " }
