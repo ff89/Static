@@ -1,1 +1,4 @@
-{ "name":"John", "age":31, "pets":[ { "animal":"dog", "name":"https://html5.gamemonetize.com/j4drf322s2noxvmrvou4ed4j7a0h2ugv/" }, { "animal":"cat", "name":"Felix" }, { "animal":"hamster", "name":"Lightning" } ] }
+{ "name":"SquidGame.IO", 
+"src":"https://html5.gamemonetize.com/j4drf322s2noxvmrvou4ed4j7a0h2ugv/", 
+"Description":"Squid Game multiplayer game! Collect gems to grow and hunt smaller players! Customize your character with hats and colors.", 
+controls":"Mouse to move Click to boost " }
