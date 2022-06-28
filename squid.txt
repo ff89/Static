@@ -1,4 +1,5 @@
-{ "name":"SquidGame.IO", 
-"src":"https://html5.gamemonetize.com/j4drf322s2noxvmrvou4ed4j7a0h2ugv/", 
-"description":"Squid Game multiplayer game! Collect gems to grow and hunt smaller players! Customize your character with hats and colors.", 
-"controls":"Mouse to move Click to boost " }
+{ "name":"Seafloor Racing",
+"by":"cargames.com",
+"src":"https://html5.gamemonetize.com/q1jptugasf68d85mlojufxdg9wrp99e0/", 
+"description":"Have you ever imagined that you could drive under the ocean surface? Here is a chance for you to start a race on the seafloor with several AI opponents at each level. Try to avoid all the obstacles and keep your high speed all the time!", 
+"controls":"WASD - move " }
