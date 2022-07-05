@@ -1,0 +1,7 @@
+{ "name":"Hockey Stars",
+    "by":"",
+    "width":"800",
+    "height":"600",
+    "src":"https://html5.gamemonetize.com/95oqj0bpz1vatib36fyhfnnlvl5reybd/", 
+    "description":"Once in front of the goal, time your shot to score!", 
+    "controls":"Play with MOUSE " }
