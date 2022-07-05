@@ -1,0 +1,7 @@
+{ "name":"Blast Out Battle Royale",
+        "by":"G55.CO ",
+        "width":"960",
+        "height":"600",
+        "src":"https://html5.gamemonetize.com/c1rq0tgsy9x3z0r8kglmxczoquhfhngu/", 
+        "description":"Search for weapons on vast area, use your vehicle to travel across the land and try to shoot all enemies in order to win.", 
+        "controls":"WASD - Move. LMB - Shoot. Mouse Wheel - Change weapons. R - Reload. F - Enter vehicle. P - Pause. Space - Jump." }
