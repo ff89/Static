@@ -1,0 +1,7 @@
+{ "name":"Lost Pyramid",
+    "by":"",
+    "width":"800",
+    "height":"600",
+    "src":"https://html5.gamemonetize.com/iwih5jyzzb0oemxf1d9qcp1g6ssxvcw6/", 
+    "description":"Two friends has embarked on an adventure to find the hidden treasure in the pyramids To reach the treasure they must avoid mummies and booby traps In the split screen games try to collect all of the gems and try to meet your friend In some places you can get over the walls by doing Wall Jump and you can get over vertical walls You can follow your positions on the map by Mini Map which is located in the middle of the game screen ", 
+    "controls":"Player 1: Move: “ARROW KEYS” Shoot: “F” Player 2: Move: “W,A,S,D” Punch: “L” Grenade: “K” " }
