@@ -1,0 +1,7 @@
+{ "name":"Baldi's Basics v1.4.3",
+    "by":"igroutka",
+    "width":"900",
+    "height":"600",
+    "src":"https://html5.gamemonetize.com/iiifrxhcnzl5laslqf3eaedtevjzb2bu/", 
+    "description":"Baldi's Basics v1.4.3 - Inspired by creepy/bad edutainment games from the 90s, Baldi's Basics is a meta horror game that's really weird, with no real educational value to be found. The goal of the game is to collect seven notebooks, and then escape the school, but that's easier said than done! You'll need to learn all the ins-and-outs of the game to come up with a winning strategy and avoid being caught by Baldi. Learning how to use Baldi's friends to your advantage, wisely managing the items found throughout the school, and memorizing the layout of Baldi's school are all keys to success!", 
+    "controls":"WASD - Move Shift - Run LBM - Action Space - Look back " }
