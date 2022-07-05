@@ -1,0 +1,7 @@
+{ "name":"Army Commando",
+    "by":"igroutka",
+    "width":"960",
+    "height":"460",
+    "src":"https://html5.gamemonetize.com/kvs3849rw9d64489g28f2mrhu618jcr4/", 
+    "description":"A ruthless group of terrorists is determined to create chaos on a global scale! You’ll need to stop them at all costs in this first-person shooter game. Take them down, one by one, as you infiltrate their secret headquarters and attempt to meet each one of your objectives.", 
+    "controls":"Left Mouse Button - Shoot Right Mouse Button - Aim Tab - Pause WASD - Move G - Granade " }
