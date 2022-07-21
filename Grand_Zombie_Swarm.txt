@@ -1,7 +1,0 @@
-{ "name":"Grand Zombie Swarm",
-    "by":"G55.CO",
-    "width":"960",
-    "height":"580",
-    "src":"https://html5.gamemonetize.com/e2ulet2hqtqshpt1ssijn6ashkljjedy/", 
-    "description":"Grand Zombie Swarm features open world zombie shooting, you are special forces soldier and your mission is to use different types of weapons to shoot hordes of zombies and try to survive each level.", 
-    "controls":"WASD - Move. LMB - Shoot. RMB - Aim. Mouse Wheel - Change weapon. R - Reload. Space - Jump. P - Pause. " }
