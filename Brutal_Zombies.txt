@@ -1,7 +1,0 @@
-{ "name":"Brutal Zombies",
-    "by":"G55.CO ",
-    "width":"960",
-    "height":"600",
-    "src":"https://html5.gamemonetize.com/abdwxzdkj8ckqz8e6euipofvjrblhjmr/", 
-    "description":"Shoot hordes of zombies and try to survive to unlock new weapons.", 
-    "controls":"WASD - Move. LMB - Shoot. R - Reload. P - Pause. F - Use. Space - Jump. " }
