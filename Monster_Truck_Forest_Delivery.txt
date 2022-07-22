@@ -1,7 +1,0 @@
-{ "name":"Monster Truck: Forest Delivery",
-    "by":"togoo ",
-    "width":"800",
-    "height":"600",
-    "src":"https://html5.gamemonetize.com/7j6a3jq3nf31mpmn2cis74fh5xehkz17/", 
-    "description":"Start your truck and deliver the cargo to its destination in Monster Truck: Forestry Delivery! In this racing game, you have to safely transport a bunch of crates across the mountainous terrain. You will come across floating platforms and traps in the middle of the night. Don't lose your cargo in Monster Truck: Forest Delivery !", 
-    "controls":"Control in the game Monster Truck: Forest Delivery is carried out with the help of the mouse and keyboard, and on the touch screens with the help of taps. Use the arrow buttons to control the truck. The object of the game Monster Truck: Forest Delivery"  }
