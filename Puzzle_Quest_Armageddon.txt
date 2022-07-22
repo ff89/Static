@@ -1,7 +1,0 @@
-{ "name":"Puzzle Quest Armageddon",
-    "by":"",
-    "width":"800",
-    "height":"450",
-    "src":"https://html5.gamemonetize.com/9wsdcvijsed5wda4rjqrp7e7654ljzls/", 
-    "description":"Match 3 Meets Real Time Strategy in this Sci Fi Action Puzzler", 
-    "controls":"Mouse/Touch only Note - touch / click between the tiles to move them. " }
